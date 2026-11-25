@@ -47,6 +47,7 @@ Older workbenches on single problems keep their own addresses and their own numb
 | [WB-0014](works/WB-0014.md) | [The first L²-Betti number of aspherical manifolds and Poincaré duality groups of dimension at least three](https://hexagonmath.org/2611.01043) | Homotopy and categories | deposited |
 | [WB-0015](works/WB-0015.md) | [Counterexamples to the positivity and saturation hypotheses of GCT VI](https://hexagonmath.org/2611.01046) | Geometric complexity theory | deposited |
 | [WB-0016](works/WB-0016.md) | [Hilbert's Nullstellensatz is in AM from a zero-free half-plane of Dedekind zeta functions, after Koiran](https://hexagonmath.org/2611.01018) | Zeta and L-functions | deposited |
+| [WB-0017](works/WB-0017.md) | [Multiplication by 2 and by 6 through products of Jacobians, and the Jacobian index of a very general abelian variety of dimension 4, 5 and 6](https://hexagonmath.org/2611.01067) | Algebraic cycles and motives | deposited |
 
 ## The rules
 
