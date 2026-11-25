@@ -13,7 +13,7 @@ The index of our research workbenches: which repository holds which field, and t
 | Zeta and L-functions | `zeta-and-l-functions-workbench` (opens with its first checked work) | Zeros, trace formulas, Artin L-functions, and what the Riemann hypothesis and its generalizations give, in arithmetic and in algorithms. |
 | Schemes and moduli | [schemes-and-moduli-workbench](https://github.com/KokunoYumeto/schemes-and-moduli-workbench) | Foundations of schemes, descent, étale, de Rham and crystalline cohomology, formal and p-divisible groups, Picard schemes, abelian varieties and their moduli. |
 | K-theory and Galois groups | [k-theory-and-galois-groups-workbench](https://github.com/KokunoYumeto/k-theory-and-galois-groups-workbench) | K-groups of rings of integers, Iwasawa theory, fundamental groups, anabelian geometry, Grothendieck-Teichmüller theory. |
-| Homotopy and categories | `homotopy-and-categories-workbench` (opens with its first checked work) | Models for homotopy types, stacks, derivators, derived functors and homotopical algebra. |
+| Homotopy and categories | [homotopy-and-categories-workbench](https://github.com/KokunoYumeto/homotopy-and-categories-workbench) | Models for homotopy types, stacks, derivators, derived functors and homotopical algebra. |
 | Algebraic groups and representations | [algebraic-groups-and-representations-workbench](https://github.com/KokunoYumeto/algebraic-groups-and-representations-workbench) | Algebraic groups and Lie algebras, quadratic forms, lambda-rings, representation rings. |
 | Combinatorial geometry and topology | `combinatorial-geometry-and-topology-workbench` (opens with its first checked work) | Polyhedra and maps, arrangements, stratified spaces, tame topology, the geometry of forms. |
 
